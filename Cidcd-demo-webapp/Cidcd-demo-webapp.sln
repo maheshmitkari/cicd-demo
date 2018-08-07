@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cidcd-demo-webapp", "Cidcd-demo-webapp\Cidcd-demo-webapp.csproj", "{68ECA6F5-6BA8-4C5C-9A2B-6B764E2324EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cicd-demo-ConsoleApp1", "cicd-demo-ConsoleApp1\cicd-demo-ConsoleApp1.csproj", "{46F743E5-B8F1-4785-ADFA-A4C1A88B0C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68ECA6F5-6BA8-4C5C-9A2B-6B764E2324EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68ECA6F5-6BA8-4C5C-9A2B-6B764E2324EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68ECA6F5-6BA8-4C5C-9A2B-6B764E2324EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68ECA6F5-6BA8-4C5C-9A2B-6B764E2324EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F743E5-B8F1-4785-ADFA-A4C1A88B0C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F743E5-B8F1-4785-ADFA-A4C1A88B0C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F743E5-B8F1-4785-ADFA-A4C1A88B0C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F743E5-B8F1-4785-ADFA-A4C1A88B0C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2AFB405-8C52-4025-B8B6-8620E2D0D0B0}
+	EndGlobalSection
+EndGlobal
