@@ -10,6 +10,8 @@ namespace cicd_demo_ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.Write("CIDC-Demo Console App");
+            Console.Read();
         }
     }
 }
